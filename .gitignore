@@ -1,1 +1,3 @@
 Problem1/.vscode/*
+*.class
+**/*.class
