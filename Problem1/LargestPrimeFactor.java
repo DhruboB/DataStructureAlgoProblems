@@ -18,6 +18,7 @@ class LargestPrimeFactor{
     public static void main(String[] args) {
         long N = 600851475143L;
         Instant start = Instant.now();
+        // change the method name to invoke different alternative solutions with varying time complexity
         System.out.println("Largest Prime Factor of " + N + " is " + calculateLargestPrime(N));
         Instant end = Instant.now();
         System.out.println("Time taken : " + Duration.between(start, end).toMillis() + " milliseconds");
