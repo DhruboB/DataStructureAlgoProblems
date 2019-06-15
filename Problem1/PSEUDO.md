@@ -1,4 +1,4 @@
-# Attempt 1 - O((N-1)*sqrt(N))
+# Attempt 1 - O((N-1)*sqrt(N)) a.k.a. O(Nsqrt(N))
 ```
 storing input given number as N which is large long type variable
 
@@ -35,7 +35,7 @@ isPrime —>
 }
 ```
 
-# Attempt 2 - O((sqrt(N)-1))*(sqrt(N)-2)/2))
+# Attempt 2 - O((sqrt(N)-1))*(sqrt(N)-2)/2))v a.k.a O(N)
 ```
 storing input given number as N which is large long type variable
 
