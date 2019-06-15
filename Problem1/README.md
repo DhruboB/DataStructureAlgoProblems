@@ -5,7 +5,7 @@ The prime factors of 13195 are 5, 7, 13 and 29.  What is the largest prime facto
 # Hint:
 There are multiple solution approaches starting time complexity from O(N^2), O(N), O(sqrt(N)) , O(N*log(N) upto O(log(N)) 
 
-When you are done , please go through [PSEDO.md](PSEDO.md) file for solutions and their pseudo code.
+When you are done , please go through [PSEUDO.md](PSEUDO.md) file for solutions and their pseudo code.
 
 Also, example implementation is given in JAVA , look for [LargestPrimeFactor.java](LargestPrimeFactor.java) file
 
